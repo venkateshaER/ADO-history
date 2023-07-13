@@ -1,0 +1,53 @@
+﻿CHANGESET,COMMIT MESSAGE,OWNER,DATE AND TIME
+7798,Azure to MS Graph and .Net 4.8,Bryce Bartley,"Mar 24, 2022 at 1:52 AM"
+5523,Added filter for Azure AD Access Groups OU,Papa Niane,"Mar 13, 2019 at 4:10 AM"
+5502,Fixed nuget config file,Papa Niane,"Mar 7, 2019 at 7:01 AM"
+5501,Removed packages from source control,Papa Niane,"Mar 7, 2019 at 6:41 AM"
+5500,Added nuget ignore,Papa Niane,"Mar 7, 2019 at 6:32 AM"
+5498,fixing packages,Papa Niane,"Mar 7, 2019 at 12:14 AM"
+5497,fixing packages,Papa Niane,"Mar 7, 2019 at 12:12 AM"
+5496,added ignore packages,Papa Niane,"Mar 7, 2019 at 12:10 AM"
+5495,fixing packages,Papa Niane,"Mar 7, 2019 at 12:04 AM"
+5494,Fixing packages,Papa Niane,"Mar 6, 2019 at 11:59 PM"
+5493,Fixing packages,Papa Niane,"Mar 6, 2019 at 11:56 PM"
+4744,Bug fix for hidden group names,Bryce Bartley,"Jul 20, 2018 at 3:17 AM"
+4738,Fixed for SSL redirect,Bryce Bartley,"Jul 19, 2018 at 1:09 AM"
+4698,PRD deployment profiles,Bryce Bartley,"Jul 13, 2018 at 12:04 AM"
+4553,Fixed group export,Bryce Bartley,"Jun 20, 2018 at 10:49 PM"
+4509,reorganized project,Bryce Bartley,"Jun 8, 2018 at 3:31 AM"
+4442,Updates to UI,Bryce Bartley,"May 17, 2018 at 9:09 PM"
+4427,Added groups,Bryce Bartley,"May 16, 2018 at 3:21 AM"
+4420,Web config fix for SSL in DEV,Bryce Bartley,"May 14, 2018 at 10:47 PM"
+4419,Publishing profile added for DEV,Bryce Bartley,"May 14, 2018 at 8:53 PM"
+4418,UI Cleanup,Bryce Bartley,"May 14, 2018 at 8:47 PM"
+4414,Fixed solution,Bryce Bartley,"May 12, 2018 at 3:30 AM"
+4411,Fix 2 of 2,Bryce Bartley,"May 12, 2018 at 1:37 AM"
+4410,Fix 1 of 2,Bryce Bartley,"May 12, 2018 at 1:36 AM"
+4383,AD Query Tool,Bryce Bartley,"May 5, 2018 at 2:08 AM"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
