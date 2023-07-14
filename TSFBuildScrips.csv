@@ -1,0 +1,28 @@
+﻿CHANGESET,COMMIT MESSAGE,OWNER,DATE AND TIME
+4708,Fixed sql permissions scripts for soma,Papa Niane,13 Jul 2018 at 08:01
+4706,Fixed permissions scripts for SOMA QA,Papa Niane,13 Jul 2018 at 05:32
+4652,fixed soma scripts,Papa Niane,9 Jul 2018 at 20:41
+4615,Fix for drop user error,Bryce Bartley,3 Jul 2018 at 03:12
+4603,Added SOMA scripts,Papa Niane,30 Jun 2018 at 09:10
+4535,Fix for DM QA permission script,Bryce Bartley,15 Jun 2018 at 21:09
+4531,Added DM Scripts,Papa Niane,14 Jun 2018 at 20:33
+4116,Added new script,Papa Niane,3 Mar 2018 at 22:55
+4016,Updated Permissions,Papa Niane,27 Jan 2018 at 09:09
+3612,Added ROIC DB Scripts,Papa Niane,9 Aug 2017 at 23:18
+3252,Added permissions to view job info,Papa Niane,15 May 2017 at 22:25
+3239,Added permissions to view Maple job definition and status,Papa Niane,12 May 2017 at 02:23
+3181,Added dynamic sql script for Maple jobs setup,Papa Niane,8 May 2017 at 21:19
+3110,removing stale scripts,Papa Niane,28 Apr 2017 at 02:36
+3058,Fixed a login issue in the script,Papa Niane,21 Apr 2017 at 02:13
+3054,Fixed and added new sql scripts,Papa Niane,20 Apr 2017 at 23:48
+3034,Adjusted extra connection string for roux jobs,Papa Niane,19 Apr 2017 at 01:59
+3030,Fixed one more issue with proxy creation,Papa Niane,18 Apr 2017 at 22:07
+3029,Fixed sql script,Papa Niane,18 Apr 2017 at 21:49
+3028,Added Credential to DB project and adjusted deploy scripts,Papa Niane,18 Apr 2017 at 21:27
+3010,Added environment,Papa Niane,14 Apr 2017 at 23:22
+3009,Minor adjustments,Papa Niane,14 Apr 2017 at 23:11
+3003,Added Maple.DataIntegration sql job scripts,Papa Niane,14 Apr 2017 at 01:13
+2984,Added new environments,Papa Niane,12 Apr 2017 at 18:39
+2961,Moved script,Papa Niane,7 Apr 2017 at 10:22
+2960,New db scripts for auto deploy,Papa Niane,7 Apr 2017 at 10:21
+2854,Added new build script to Set environment variables,Papa Niane,29 Mar 2017 at 05:25
