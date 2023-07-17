@@ -1,0 +1,158 @@
+﻿CHANGESET,COMMIT MESSAGE,OWNER,DATE AND TIME
+1398,Final fixes for QA 12/16 push,Papa Niane,16 Dec 2015 at 23:12
+1357,CRDT-1246: Fixed Duplicate Row check,Chris Matthews,5 Dec 2015 at 02:49
+1347,CRDT-1165: Add Region Modules page,Chris Matthews,2 Dec 2015 at 21:09
+1330,CRDT-1161: Margin accounts translates GIGDOLLARS to 500000,Chris Matthews,25 Nov 2015 at 20:45
+1327,CRDT-1165: Added logic that only retrieves teams in a region that have one or more active subteams,Chris Matthews,24 Nov 2015 at 23:07
+1326,Various fixes,Papa Niane,23 Nov 2015 at 23:54
+1309,Fixed: 1110,mona rideout,20 Nov 2015 at 08:42
+1303,Refactoring upload validation preview,Chris Matthews,19 Nov 2015 at 00:55
+1302,CRDT-1152: Data for margin uploads is validated prior to allowing the user to import into the datab,Chris Matthews,18 Nov 2015 at 23:12
+1285,CRDT-1101: Added dash for zeroes in reports,Chris Matthews,12 Nov 2015 at 23:12
+1284,CRDT-1088: Grant Access page filters stores by region,Chris Matthews,12 Nov 2015 at 02:59
+1283,CRDT-1077: Changed reports to sum down,Chris Matthews,12 Nov 2015 at 02:34
+1282,CRDT-1115: Regionalization and margin account filters added,Chris Matthews,11 Nov 2015 at 22:23
+1276,CRDT-1097: Bug fix for locations that don't display dropdown,Chris Matthews,11 Nov 2015 at 21:39
+1274,"Fixed team rollups for margin, reorganized the project folder structure",Papa Niane,11 Nov 2015 at 09:12
+1273,Fixed CRDT-1079,mona rideout,11 Nov 2015 at 03:46
+1272,CRDT-1097: Fixed bug with Margin Account defaulting back to GIG whenever the dropdown changes,Chris Matthews,11 Nov 2015 at 01:31
+1270,Various bug fixes,Papa Niane,10 Nov 2015 at 06:16
+1261,Bug fixes for CRDT-1062 and CRDT-1065,Chris Matthews,6 Nov 2015 at 03:41
+1256,CRDT-1064: Adjusted value now allowed to revert to zero,Chris Matthews,4 Nov 2015 at 22:21
+1252,CRDT-1057 and CRDT-1035 completed,Chris Matthews,4 Nov 2015 at 00:40
+1243,Upload Task: List of subteams no longer dependent on region,Chris Matthews,29 Oct 2015 at 00:45
+1242,CRDT-1026: Now displays Sheet and Section in upload page,Chris Matthews,27 Oct 2015 at 20:47
+1241,export to excel,mona rideout,27 Oct 2015 at 03:09
+1233,Bug fix for upload task,Chris Matthews,24 Oct 2015 at 00:27
+1229,Upload task changes,Chris Matthews,23 Oct 2015 at 23:38
+1228,Fixes for the upload programs and dimensions,Chris Matthews,23 Oct 2015 at 20:50
+1226,Fix references with MarginEntry,Chris Matthews,23 Oct 2015 at 00:51
+1218,CRDT-1023: Removed the programs/dimensions import for Sales Excel sheets. Refactored code and Marg,Chris Matthews,21 Oct 2015 at 21:57
+1210,CRDT-1021: Download button now appears on preview,Chris Matthews,21 Oct 2015 at 00:33
+1207,Changed format of Quarterly Margin Detail to show which fields need to be calculated,Chris Matthews,20 Oct 2015 at 00:15
+1206,Bug fixes for quarterly margin detail page,Chris Matthews,19 Oct 2015 at 21:45
+1200,Minor bug fix for upload screen to display correct status,Chris Matthews,16 Oct 2015 at 21:16
+1199,Upload task bug fix. Wrong total rows showing,Chris Matthews,16 Oct 2015 at 20:06
+1192,CRDT-1001: Redirect Region page to the default page,Chris Matthews,15 Oct 2015 at 00:37
+1134,Upload bug fixes,Chris Matthews,2 Oct 2015 at 21:33
+1133,Fixed bug,Chris Matthews,2 Oct 2015 at 19:45
+1132,Checking in before windows reinstall,Papa Niane,2 Oct 2015 at 09:41
+1131,Added programs to upload task,Chris Matthews,2 Oct 2015 at 03:40
+1130,Added dimensions to upload,Chris Matthews,2 Oct 2015 at 03:20
+1125,Completed import for margin dollars only (still waiting on repl,Chris Matthews,1 Oct 2015 at 21:10
+1118,Quarterly Margin-Rollup totals with formatting,mona rideout,30 Sept 2015 at 07:57
+1114,Added new columns to MarginEntry Entity Framework,Chris Matthews,30 Sept 2015 at 01:13
+1107,New QuarterlyMarhin page,mona rideout,28 Sept 2015 at 23:07
+1106,quarterly margin detail changes,Chris Matthews,28 Sept 2015 at 22:08
+1102,Check in created vb class files,Chris Matthews,25 Sept 2015 at 23:33
+1096,Added code to calculate the totals,Chris Matthews,25 Sept 2015 at 02:33
+1090,Added stored procedures to EF and cleaned up unused reference in QuarterlyDimensions,Chris Matthews,24 Sept 2015 at 01:32
+1080,Added total row for Periodic Program Summary,Chris Matthews,23 Sept 2015 at 00:25
+1071,Localize preview CSS since it's exclusive to Upload,Chris Matthews,18 Sept 2015 at 19:22
+1070,Modified the upload preview to fit more of the grid on screen,Chris Matthews,18 Sept 2015 at 03:48
+1068,ui work,Bryce Bartley,17 Sept 2015 at 21:46
+1064,Removed redundant references in SalesMix,Chris Matthews,17 Sept 2015 at 00:47
+1063,Added css for Periodic Gross Margin,Chris Matthews,17 Sept 2015 at 00:36
+1059,Clean up code on upload for future enhancements,Chris Matthews,16 Sept 2015 at 20:05
+1056,Code for upload column and percentage on preview screen,Chris Matthews,16 Sept 2015 at 02:32
+1048,misc fixes,mona rideout,15 Sept 2015 at 03:23
+1044,337,mona rideout,15 Sept 2015 at 01:30
+1024,Removal of unused script causing javascript error in MarginReviewStore,Chris Matthews,11 Sept 2015 at 00:01
+1022,Change format of sales model print headers,Chris Matthews,10 Sept 2015 at 20:38
+1017,Fixed modal script for SalesMix and Model to work even after client-side update,Chris Matthews,9 Sept 2015 at 22:26
+1009,Bug fixes for headers not static after partial postback,Chris Matthews,4 Sept 2015 at 21:13
+1008,Fixed bindings with Sales Model comments,Chris Matthews,4 Sept 2015 at 20:11
+995,Bug fix for AdjustDimensions,Chris Matthews,3 Sept 2015 at 19:16
+989,Added message boxes forbidding unassignment for store assigned programs and dimensions,Chris Matthews,2 Sept 2015 at 22:43
+983,Bug fix for upload time span data,Chris Matthews,2 Sept 2015 at 01:46
+982,Aesthetic and functional improvements to upload form,Chris Matthews,2 Sept 2015 at 01:20
+979,Bug fix for margin accounts,Chris Matthews,1 Sept 2015 at 20:10
+978,Bug fixes and layout fixes for AdjustDimensions and MarginAccounts,Chris Matthews,1 Sept 2015 at 20:07
+963,Moved dropdown arrow to the right and changed color of the no data message in sales,Chris Matthews,28 Aug 2015 at 19:53
+961,Fixed bugs related to forecast data not showing,Chris Matthews,28 Aug 2015 at 02:50
+960,CRDT 332: Now importing the Actuals data for MarginReviewStore and MarginReviewAllStores forms,Chris Matthews,28 Aug 2015 at 01:37
+953,Revert MarginReviewStore to quarters and added store entries to MarginReviewAllStores,Chris Matthews,27 Aug 2015 at 20:03
+952,"add new programs,dimensions and partial compident implementation",mona rideout,27 Aug 2015 at 01:56
+951,More code to revert sales and mix to weeks,Chris Matthews,26 Aug 2015 at 23:59
+950,Revert mix and sales upload to populate weeks,Chris Matthews,26 Aug 2015 at 23:58
+947,Added data to margin page and fix for floating headers,Chris Matthews,26 Aug 2015 at 02:57
+941,CRDT-671: Fixed floating headers to stay on one line,Chris Matthews,25 Aug 2015 at 02:59
+939,CRDT-335: Refined the import of Margin Programs and Dimensions,Chris Matthews,24 Aug 2015 at 23:44
+937,"fixes for 657,660,670",mona rideout,22 Aug 2015 at 00:57
+933,CRDT-666: Fixed issue with null reference exception. Header filters were missing.,Chris Matthews,21 Aug 2015 at 00:10
+932,Modified the upload form for design and to use Period functionality,Chris Matthews,20 Aug 2015 at 22:50
+928,Fix for selected region to appear on the toolbar,Chris Matthews,20 Aug 2015 at 01:56
+927,Minor bug fixes,Chris Matthews,20 Aug 2015 at 01:48
+926,Added import for margin actuals. Added field for Margin Account Number in admin,Chris Matthews,20 Aug 2015 at 01:01
+923,Added Margin Section admin page,Chris Matthews,18 Aug 2015 at 20:46
+922,"Work items CRDT-659, 662 and 663. Also updated references in UploadTask.vb",Papa Niane,18 Aug 2015 at 09:50
+920,"Display image checkbox for gridview if enabled instead of character, which may not display well with",Chris Matthews,17 Aug 2015 at 22:21
+916,Added checkbox image,Chris Matthews,15 Aug 2015 at 02:20
+914,Updated master pages so that URL references will be from root regardless of whether Admin or regular,Chris Matthews,15 Aug 2015 at 01:08
+913,Bug Fixes,mona rideout,15 Aug 2015 at 01:06
+912,bug fix,mona rideout,14 Aug 2015 at 23:39
+911,"Format changes for modal and add ""DEV"" bar to main page",Chris Matthews,14 Aug 2015 at 21:44
+910,More javascript fixes for the Sales Mix buttons,Chris Matthews,14 Aug 2015 at 21:05
+907,Fix broken javascript with modal forms,Chris Matthews,14 Aug 2015 at 03:10
+904,ProviderManifestToken fix,mona rideout,14 Aug 2015 at 00:14
+903,Forecast status admin page now only handles one session as opposed to multiple sessions,Chris Matthews,13 Aug 2015 at 21:41
+899,Quarter changed to Fiscal,mona rideout,13 Aug 2015 at 03:03
+898,Replaced disabled checkboxes with regular text checks if checked,Chris Matthews,11 Aug 2015 at 23:58
+897,Grant Access now has filters,Chris Matthews,11 Aug 2015 at 22:15
+889,Adjust Dimensions automatically saves on text change,Chris Matthews,11 Aug 2015 at 01:13
+888,More layout changes and moving buttons to the header. Set up filter UI for grant access,Chris Matthews,8 Aug 2015 at 02:25
+887,More layout changes to add fields to header. CSS to keep it maintainable.,Chris Matthews,8 Aug 2015 at 00:58
+886,Fixes to all the forms,Chris Matthews,7 Aug 2015 at 21:04
+884,Sales Model form fixes,Chris Matthews,6 Aug 2015 at 01:34
+883,UI changes to timepicker and grant access,Chris Matthews,5 Aug 2015 at 20:05
+882,Fix for CRDT-475,mona rideout,5 Aug 2015 at 02:05
+881,Formatting for all checkboxes and the Sales Model page,Chris Matthews,5 Aug 2015 at 00:39
+875,region layout fix,mona rideout,3 Aug 2015 at 23:49
+873,regionchange,mona rideout,1 Aug 2015 at 01:18
+871,Added code to also delete message assignments,Chris Matthews,31 Jul 2015 at 23:45
+870,More changes to Messages,Chris Matthews,31 Jul 2015 at 22:47
+869,Edit change for Messages,Chris Matthews,31 Jul 2015 at 22:36
+868,Added locations to Messages,Chris Matthews,31 Jul 2015 at 22:33
+865,Message date and time picker adjusted for better view,Chris Matthews,31 Jul 2015 at 21:02
+864,Messages form restructuring and a variety of layout changes,Chris Matthews,31 Jul 2015 at 20:49
+858,Tweaks to master page to allow for format,Chris Matthews,31 Jul 2015 at 00:16
+855,Misc Bug fixes,mona rideout,30 Jul 2015 at 23:22
+851,Events page formatting changes,Chris Matthews,30 Jul 2015 at 02:43
+849,More design fixed,Chris Matthews,29 Jul 2015 at 22:24
+847,Checkbox and button changes in CSS,Chris Matthews,29 Jul 2015 at 21:18
+843,Adjusted table display to center a few forms,Chris Matthews,29 Jul 2015 at 00:56
+842,Swap location of toolbar and environment bar in login page,Chris Matthews,28 Jul 2015 at 22:24
+840,Changes to css and to login page,Chris Matthews,28 Jul 2015 at 20:30
+839,Fix for master page login,Chris Matthews,28 Jul 2015 at 19:22
+838,More changes,Chris Matthews,28 Jul 2015 at 19:19
+835,Change page title to match dropdown,Chris Matthews,27 Jul 2015 at 20:31
+833,Restore AdminBlank master page to Upload page,Chris Matthews,27 Jul 2015 at 18:37
+832,Changed format of grids to match master page,Chris Matthews,24 Jul 2015 at 22:08
+831,Merged Admin pages to one master page,Chris Matthews,24 Jul 2015 at 20:48
+828,Added new layout for all tables,Chris Matthews,24 Jul 2015 at 00:38
+821,Sales Mix Table design change,Chris Matthews,23 Jul 2015 at 03:27
+819,Changed table borders and colors for Sales Model table and Margin tables,Chris Matthews,22 Jul 2015 at 22:09
+817,Partial check-in table style changes,Chris Matthews,22 Jul 2015 at 03:07
+816,Format CSS object,Chris Matthews,21 Jul 2015 at 21:10
+798,More refactoring of upload task margins,Chris Matthews,15 Jul 2015 at 00:29
+797,Margin upload bug fixes and refactoring,Chris Matthews,14 Jul 2015 at 22:43
+796,Corrected DimensionID logic,Chris Matthews,14 Jul 2015 at 03:11
+795,Added upload margin code and updated UploadQueue database,Chris Matthews,14 Jul 2015 at 03:05
+781,Fix for regionalization in UploadTask helper,Chris Matthews,8 Jul 2015 at 21:24
+773,Added current region ID to populate RegionID of UploadQueue table,Chris Matthews,8 Jul 2015 at 00:30
+772,Papa's Updates,Papa Niane,7 Jul 2015 at 11:41
+761,"Changed hardcoded ""MA"" region values to the current region ID in session",Chris Matthews,6 Jul 2015 at 20:43
+742,Regionalization of Messages,mona rideout,1 Jul 2015 at 02:27
+737,Minor fixes,Papa Niane,30 Jun 2015 at 23:03
+736,Regionalization,mona rideout,30 Jun 2015 at 22:38
+735,"Bug fix for sort in StartWeek, EndWeek",Chris Matthews,30 Jun 2015 at 21:29
+733,Incremental check-in. Commented out sorting code.,Chris Matthews,30 Jun 2015 at 21:01
+730,Incremental-check in: Provided logic for the sort function for new column TimeSpan,Chris Matthews,29 Jun 2015 at 20:34
+727,"Incremental change: Added TimeSpan column, hid StartWeek and EndWeek columns",Chris Matthews,29 Jun 2015 at 19:32
+717,CRDT_345: Regionalized list of locations in the Download Admin page,Chris Matthews,24 Jun 2015 at 00:27
+716,CRDT-344 and CRDT-340: Regionalized CompIdentMatrix and UploadTasks,Chris Matthews,24 Jun 2015 at 00:03
+713,CRDT-327 and CRDT-342: Regionalized Events to only display current region. Added button to copy ev,Chris Matthews,23 Jun 2015 at 00:33
+692,Fixed CKEditor References,Papa Niane,11 Jun 2015 at 20:01
+686,Adding project to TFS,Papa Niane,9 Jun 2015 at 22:41
+685,Adding v2,Papa Niane,9 Jun 2015 at 22:23
+684,Setting up TFS project for Finance hub,Papa Niane,9 Jun 2015 at 21:42
